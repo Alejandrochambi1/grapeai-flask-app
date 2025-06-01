@@ -41,6 +41,7 @@ scikit-image==0.20.0 # Puede que necesites probar 0.19.x si esta sigue dando pro
 scikit-learn==1.3.2
 scipy==1.11.4 # Compatible con NumPy 1.24.3
 six==1.16.0
+setuptools>=65.0.0
 # tensorboard==2.17.1 # No necesario para inferencia
 # tensorboard-data-server==0.7.2 # No necesario para inferencia
 tensorflow-cpu==2.13.1 # Usando una versión específica
